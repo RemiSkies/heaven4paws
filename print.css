@@ -1,0 +1,30 @@
+#navigation {
+	display: none;
+}
+
+.section {
+	border: none;
+	float: left;
+}
+
+
+
+.sidebar, .sidebar1, .sidebar2, .sidebar3, .sidebar4, .sidebar5 {
+	font-size: 13pt;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32pt !important;
+	border-bottom: 1pt solid #000;
+	padding-bottom: 10pt;
+}
+
+.footer {
+	border-top: 1pt solid #000;
+	padding-top: 20pt;
+}
+
+h2 {
+	padding-bottom: 4pt;
+}
